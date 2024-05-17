@@ -1,0 +1,1 @@
+echo 'clase de auto'
